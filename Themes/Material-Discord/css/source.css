@@ -1,3 +1,37 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@DeadlyDeadpoolG 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+CapnKitten
+/
+BetterDiscord
+3
+34388
+Code
+Pull requests
+4
+Actions
+Projects
+Wiki
+Security
+Insights
+BetterDiscord/Themes/Material-Discord/css/source.css
+@CapnKitten
+CapnKitten Update source.css
+Latest commit e0fa35c 14 days ago
+ History
+ 1 contributor
+6360 lines (6065 sloc)  301 KB
+  
 :root {
   --app-bg: var(--main-alt);
   --accent-color: #3f51b5;
@@ -144,7 +178,7 @@ body,
     width: auto;
     height: 22px; }
   .wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
-    content: "Material";
+    content: "Darpoon";
     font-weight: 700; }
   .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
     content: "Discord"; }
@@ -4580,7 +4614,6 @@ body:active .container-3ayLPN:not(:active) {
 	transform: translateX(0%) translateY(0%) translateZ(0px) !important;
 	animation: show-user-status-right 350ms var(--default-animation);
 }
-
 .popoutRight-1veHKi.noArrow-2foL9g .userPopout-3XzG_A {
 	transform: translateX(0%) translateY(0%) translateZ(0px) !important;
 	animation: show-user-status-left 350ms var(--default-animation);
@@ -6358,3 +6391,15 @@ div[role="radiogroup"] {
   font-weight: 700;
   src: local("Product Sans Bold Italic"), local("ProductSans-BoldItalic"), url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/fonts/ProductSans-BoldItalic-latinext.woff2) format("woff2");
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
